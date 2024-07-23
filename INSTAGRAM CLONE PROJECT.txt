@@ -136,42 +136,13 @@ INSERT INTO photo_tags (photo_id, tag_id)
     VALUES (1, 18), (1, 17), (1, 21), (1, 13), (1, 19), (2, 4), (2, 3), (2, 20), (2, 2), (3, 8), (4, 12), (4, 11), (4, 21), (4, 13), (5, 15), (5, 14), (5, 17), (5, 16), (6, 19), (6, 13), (6, 17), (6, 21), (7, 11), (7, 12), (7, 21), (7, 13), (8, 17), (8, 21), (8, 13), (8, 19), (9, 18), (10, 2), (11, 12), (11, 21), (11, 11), (12, 4), (13, 13), (13, 19), (14, 1), (14, 20), (17, 19), (17, 13), (17, 18), (19, 5), (21, 20), (21, 3), (21, 1), (21, 4), (22, 7), (22, 5), (22, 6), (23, 18), (23, 19), (23, 13), (23, 21), (24, 12), (24, 13), (24, 21), (25, 8), (25, 21), (25, 10), (26, 20), (26, 21), (26, 8), (26, 9), (26, 10), (28, 9), (28, 10), (29, 8), (29, 21), (29, 9), (29, 20), (30, 7), (30, 6), (30, 5), (31, 7), (31, 5), (32, 10), (32, 9), (32, 21), (32, 8), (32, 20), (34, 11), (34, 13), (34, 12), (35, 6), (35, 7), (35, 5), (36, 5), (36, 7), (36, 6), (37, 18), (37, 21), (37, 13), (38, 3), (38, 2), (43, 11), (43, 21), (43, 12), (44, 20), (44, 10), (45, 3), (45, 1), (47, 20), (49, 21), (49, 18), (50, 5), (51, 21), (51, 8), (51, 20), (53, 8), (55, 12), (56, 11), (57, 13), (57, 18), (57, 21), (57, 19), (57, 17), (58, 8), (59, 20), (59, 9), (59, 10), (59, 21), (60, 16), (60, 15), (60, 17), (61, 20), (61, 10), (62, 2), (63, 6), (64, 12), (64, 13), (64, 21), (64, 11), (65, 7), (65, 5), (66, 15), (66, 17), (68, 11), (68, 21), (70, 21), (70, 12), (70, 11), (71, 14), (71, 15), (71, 16), (72, 20), (72, 8), (72, 21), (73, 13), (73, 21), (74, 16), (74, 15), (75, 1), (75, 20), (75, 4), (76, 11), (76, 12), (78, 16), (78, 17), (78, 15), (79, 6), (79, 5), (79, 7), (83, 1), (83, 3), (84, 17), (84, 18), (84, 13), (85, 20), (85, 1), (85, 3), (86, 13), (87, 12), (87, 13), (87, 21), (88, 18), (88, 17), (90, 14), (90, 17), (91, 3), (91, 4), (91, 1), (92, 19), (93, 17), (93, 21), (93, 13), (93, 18), (94, 19), (94, 18), (94, 13), (94, 17), (94, 21), (95, 18), (95, 19), (95, 17), (95, 21), (95, 13), (96, 15), (96, 17), (97, 7), (97, 5), (97, 6), (98, 16), (98, 15), (98, 14), (98, 17), (100, 20), (101, 14), (101, 16), (102, 14), (102, 16), (102, 15), (103, 5), (107, 11), (107, 12), (107, 21), (108, 11), (109, 9), (109, 8), (109, 10), (110, 2), (111, 17), (111, 15), (111, 14), (111, 16), (112, 21), (112, 9), (112, 20), (116, 7), (117, 21), (118, 20), (118, 4), (118, 1), (120, 21), (120, 19), (120, 17), (121, 21), (121, 13), (121, 11), (121, 12), (122, 15), (123, 17), (123, 14), (123, 15), (124, 15), (124, 16), (124, 17), (125, 11), (125, 12), (126, 2), (126, 3), (126, 4), (127, 21), (131, 5), (132, 19), (132, 17), (132, 13), (132, 18), (132, 21), (133, 15), (133, 17), (133, 16), (133, 14), (134, 21), (134, 11), (134, 12), (134, 13), (135, 17), (136, 8), (136, 9), (136, 21), (136, 20), (136, 10), (137, 11), (137, 13), (137, 21), (137, 12), (138, 9), (138, 20), (138, 10), (139, 5), (140, 11), (140, 12), (141, 17), (142, 21), (142, 20), (145, 18), (145, 13), (145, 19), (145, 17), (145, 21), (147, 5), (148, 11), (149, 20), (149, 4), (149, 1), (149, 2), (152, 16), (152, 17), (152, 15), (152, 14), (153, 15), (153, 16), (153, 17), (153, 14), (154, 21), (155, 10), (155, 21), (155, 20), (155, 9), (155, 8), (156, 6), (156, 5), (157, 13), (157, 11), (157, 12), (157, 21), (158, 15), (159, 5), (160, 5), (161, 11), (162, 15), (162, 14), (162, 17), (163, 21), (163, 13), (163, 19), (166, 13), (166, 17), (168, 6), (168, 5), (169, 12), (171, 10), (171, 21), (171, 9), (171, 8), (171, 20), (172, 15), (172, 16), (172, 14), (173, 16), (173, 15), (173, 17), (174, 5), (175, 17), (175, 18), (177, 15), (177, 17), (178, 16), (181, 5), (181, 7), (182, 8), (182, 10), (182, 20), (182, 21), (183, 5), (184, 13), (184, 21), (184, 12), (185, 20), (185, 8), (185, 21), (185, 9), (185, 10), (188, 13), (188, 21), (188, 11), (189, 10), (189, 8), (189, 20), (190, 17), (190, 18), (191, 5), (191, 6), (194, 1), (197, 13), (197, 18), (197, 21), (197, 19), (199, 11), (199, 13), (201, 3), (201, 4), (201, 2), (201, 1), (201, 20), (202, 21), (202, 18), (202, 19), (202, 17), (203, 17), (203, 19), (203, 18), (205, 18), (205, 21), (205, 17), (206, 14), (207, 13), (207, 21), (208, 4), (208, 20), (209, 20), (209, 3), (209, 2), (210, 2), (210, 1), (211, 18), (211, 13), (212, 8), (212, 21), (212, 20), (212, 9), (214, 14), (214, 15), (214, 17), (214, 16), (216, 3), (216, 1), (218, 8), (218, 20), (219, 17), (219, 19), (219, 13), (219, 21), (219, 18), (220, 2), (220, 3), (220, 20), (220, 4), (221, 12), (221, 13), (221, 21), (222, 7), (225, 7), (226, 12), (226, 13), (226, 21), (226, 11), (227, 2), (227, 3), (227, 4), (227, 1), (227, 20), (228, 20), (230, 10), (230, 21), (230, 9), (230, 8), (230, 20), (231, 3), (231, 4), (231, 1), (232, 8), (232, 10), (232, 20), (232, 21), (232, 9), (233, 3), (233, 1), (233, 2), (233, 20), (235, 10), (237, 10), (237, 20), (238, 1), (238, 4), (238, 3), (238, 2), (238, 20), (239, 17), (239, 21), (239, 18), (240, 20), (240, 4), (242, 1), (242, 20), (242, 4), (242, 2), (243, 1), (244, 7), (244, 5), (244, 6), (247, 16), (247, 14), (248, 10), (248, 9), (249, 7), (249, 5), (250, 14), (250, 16), (250, 15), (251, 11), (253, 7), (254, 4), (254, 2), (254, 20), (254, 3), (257, 13), (257, 19), (257, 18)
 
 
-Microsoft Windows [Version 10.0.22631.3880]
-(c) Microsoft Corporation. All rights reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SOUTION:
+--------
 
-C:\Users\User>mysql -u root -p
-Enter password: ****
-Welcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is 14
-Server version: 8.0.37 MySQL Community Server - GPL
-
-Copyright (c) 2000, 2024, Oracle and/or its affiliates.
-
-Oracle is a registered trademark of Oracle Corporation and/or its
-affiliates. Other names may be trademarks of their respective
-owners.
-
-Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-
-mysql> -- find 5 oldest users
-mysql> SELECT ID,USERNAME,CREATED_AT
-    -> FROM USERS
-    -> ORDER_BY ASC;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 3
-mysql> SELECT ID,USERNAME,CREATED_AT
-    -> FROM USERS
-    -> ORDER BY ASC;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 3
-mysql> SELECT ID,USERNAME,CREATED_AT
-    -> FROM USERS
-    -> ORDER BY CREATED_AT ASC;
-ERROR 1046 (3D000): No database selected
-mysql> USE INSTAGRAN_CLONE_DB;
-ERROR 1049 (42000): Unknown database 'instagran_clone_db'
-mysql> USEINSTAGRAM_CLONE_DB;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'USEINSTAGRAM_CLONE_DB' at line 1
-mysql> USE INSTAGRAM_CLONE_DB;
+mysql> USE instagram_clone_db;
 Database changed
+mysql> 1 -- FIND 5 OLDEST USERS
 mysql> SELECT ID,USERNAME,CREATED_AT
     -> FROM USERS
     -> ORDER BY CREATED_AT ASC;
@@ -279,7 +250,7 @@ mysql> SELECT ID,USERNAME,CREATED_AT
 |   6 | Travon.Waters         | 2017-04-30 13:26:14 |
 |  11 | Justina.Gaylord27     | 2017-05-04 16:32:16 |
 +-----+-----------------------+---------------------+
-100 rows in set (0.00 sec)
+100 rows in set (0.02 sec)
 
 mysql> SELECT * FROM USERS
     -> ORDER BY CREATED_AT
@@ -295,17 +266,7 @@ mysql> SELECT * FROM USERS
 +----+------------------+---------------------+
 5 rows in set (0.00 sec)
 
-mysql> -- WHAT DAYS OF THE WEEK DO MOST USERS REGISTERED ON?
-mysql> SELECT
-    -> DAYNAME(CREATED_AT) AS DAY_OF_THE_WEEK
-    -> COUNT(*) AS TOTAL_COUNT
-    -> FROM USERS
-    -> GROUP BY DAY_OF_THE_WEEK
-    -> ORDER BY TOTAL_COUNT DESC;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COUNT(*) AS TOTAL_COUNT
-FROM USERS
-GROUP BY DAY_OF_THE_WEEK
-ORDER BY TOTAL_COUNT' at line 3
+mysql>2  -- WHAT DAYS OF THE WEEK DO MOST USERS REGISTER ON?
 mysql> SELECT
     -> DAYNAME(CREATED_AT) AS DAY_OF_THE_WEEK,
     -> COUNT(*) AS TOTAL_COUNT
@@ -323,27 +284,15 @@ mysql> SELECT
 | Wednesday       |          13 |
 | Saturday        |          12 |
 +-----------------+-------------+
-7 rows in set (0.06 sec)
+7 rows in set (0.01 sec)
 
-mysql> -- FIND THE USERS WHO HAVE NEVER POSTED A PHOTO?
-mysql> SELECR
-    -> USERS.ID,USERNAME,
-    -> USERS.CREATED_AT AS USER_JOINING_DATE
-    -> FROM USERS
-    -> LEFT JOIN PHOTOS
-    -> ON USERS.ID = PHOTOS.USER_ID
-    -> WHERE PHOTOS.USER_ID IS NULL;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECR
-USERS.ID,USERNAME,
-USERS.CREATED_AT AS USER_JOINING_DATE
-FROM USERS
-LEFT ' at line 1
+mysql>3 -- FIND THE USER WHO HAS NEVER POSTED A PHOTO?
 mysql> SELECT
-    -> USERS.ID,USERNAME,
+    -> USERS.ID, USERNAME,
     -> USERS.CREATED_AT AS USER_JOINING_DATE
     -> FROM USERS
     -> LEFT JOIN PHOTOS
-    -> ON USERS.ID = PHOTOS.USER_ID
+    -> ON USERS.ID= PHOTOS.USER_ID
     -> WHERE PHOTOS.USER_ID IS NULL;
 +----+---------------------+---------------------+
 | ID | USERNAME            | USER_JOINING_DATE   |
@@ -375,47 +324,9 @@ mysql> SELECT
 | 90 | Esmeralda.Mraz57    | 2017-03-03 11:52:27 |
 | 91 | Bethany20           | 2016-06-03 23:31:53 |
 +----+---------------------+---------------------+
-26 rows in set (0.00 sec)
+26 rows in set (0.01 sec)
 
-mysql> -- WE ARE RUNNING A NEW CONTEST TO SEE WHO CAN GET THE MOST LIKES ON A SINGLE PHOTO?
-mysql> SELECT
-    -> USER.ID AS USER_ID,
-    -> USERNAME,
-    -> PHOTOS.ID AS PHOTO_ID,
-    -> PHOTOS.IMAGE_URL,
-    -> COUNT(*) AS TOTAL_LIKES_COUNT
-    -> FROM PHOTOS
-    -> JOIN LIKES
-    -> ON PHOTOS.ID = LIKES.PHOTO.ID
-    -> JION USERS
-    -> ^C
-mysql> SELECT
-    -> USER.ID AS USER_ID,
-    -> USERNAME,
-    -> PHOTOS.ID AS PHOTO_ID,
-    -> PHOTOS.IMAGE_URL,
-    -> COUNT(*) AS TOTAL_LIKES_COUNT
-    -> FROM PHOTOS
-    -> JOIN LIKES
-    -> ON PHOTOS.ID = LIKES.PHOTO.ID
-    -> JOIN USERS
-    -> ON USERS.ID = PHOTOS.USER_ID
-    -> ^C
-mysql> SELECT
-    -> USER.ID AS USER_ID,
-    -> USERNAME,
-    -> PHOTOS.ID AS PHOTO_ID,
-    -> PHOTOS.IMAGE_URL,
-    -> COUNT(*) AS TOTAL_LIKES_COUNT
-    -> FROM PHOTOS
-    -> JOIN LIKES
-    -> ON PHOTOS.ID = LIKES.PHOTO_ID
-    -> JOIN USERS
-    -> ON USERS.ID = PHOTOS.USER_ID
-    -> GROUP BY PHOTOS.ID
-    -> ORDER BY TOTAL_LIKES_COUNT DESC
-    -> LIMIT 1;
-ERROR 1054 (42S22): Unknown column 'USER.ID' in 'field list'
+mysql> 4 -- WE ARE RUNNING A NEW CONTEST TO SEE WHO CAN GET THE MOST LIKES ON ASINGLE PHOTO?
 mysql> SELECT
     -> USERS.ID AS USER_ID,
     -> USERNAME,
@@ -435,62 +346,52 @@ mysql> SELECT
 +---------+---------------+----------+---------------------+-------------------+
 |      52 | Zack_Kemmer93 |      145 | https://jarret.name |                48 |
 +---------+---------------+----------+---------------------+-------------------+
-1 row in set (0.06 sec)
+1 row in set (0.04 sec)
 
-mysql> -- HOW MANY TIMES DOES THE AVG USER POST?
+mysql> 5 -- HOW MANY TIMES DOES THE AVERAGE USER POST?
 mysql> SELECT ROUND(
-    -> (SELECT COUNT(*) FROM PHOTOS) / (SELECT COUNT(*) FROM USERS)
+    -> (SELECT COUNT(*)FROM PHOTOS)/(SELECT COUNT(*) FROM USERS)
     -> )AS AVG_USER_POST;
 +---------------+
 | AVG_USER_POST |
 +---------------+
 |             3 |
 +---------------+
-1 row in set (0.06 sec)
+1 row in set (0.03 sec)
 
-mysql> -- WHAT ARE THE TOP FIVE MOST COMMONLY USED HASTAGS?
+mysql> 6 -- WHAT ARE THE TOP 5 MOST COMMONLY USED HASHTAGS?
 mysql> SELECT
-    -> TAGS.ID AS TAG.ID,
+    -> TAGS.ID AS TAG_ID,
     -> TAGS.TAG_NAME,
     -> COUNT(*) AS TOTAL_TAGS_COUNT
     -> FROM TAGS
     -> JOIN PHOTO_TAGS
-    -> ON TAGS.ID = PHOTO_TAGS.TAG_ID
+    -> ON TAGS.ID= PHOTO_TAGS.TAG_ID
     -> GROUP BY TAGS.ID
     -> ORDER BY TOTAL_TAGS_COUNT DESC
     -> LIMIT 5;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.ID,
-TAGS.TAG_NAME,
-COUNT(*) AS TOTAL_TAGS_COUNT
-FROM TAGS
-JOIN PHOTO_TAGS
-ON TA' at line 2
-mysql> SELECT
-    -> TAGS.ID AS TAG.ID,
-    -> TAGS.TAG_NAME,
-    -> COUNT(*) AS TOTAL_TAGS_COUNT
-    -> FROM TAGS
-    -> JOIN PHOTO_TAGS
-    -> ON TAGS.ID = PHOTO_TAGS.TAG_ID
-    -> GROUP BY TAGS.ID
-    -> ORDER BY TOTAL_TAGS_COUNT DESC
-    -> LIMIT 5;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.ID,
-TAGS.TAG_NAME,
-COUNT(*) AS TOTAL_TAGS_COUNT
-FROM TAGS
-JOIN PHOTO_TAGS
-ON TA' at line 2
-mysql> -- FIND THE NO.OF USERS WHO HAVE LIKED EVERY SINGLE PHOTO?
++--------+----------+------------------+
+| TAG_ID | TAG_NAME | TOTAL_TAGS_COUNT |
++--------+----------+------------------+
+|     21 | smile    |               59 |
+|     20 | beach    |               42 |
+|     17 | party    |               39 |
+|     13 | fun      |               38 |
+|     18 | concert  |               24 |
++--------+----------+------------------+
+5 rows in set (0.18 sec)
+
+mysql>7  -- FIND THE NUMNER OF USERS WHO HAVE LIKED EVERY SINGLE ON THE SITE?
 mysql> SELECT
     -> USERS.ID AS USER_ID,
     -> USERS.USERNAME,
     -> COUNT(*) AS TOTAL_USER_LIKES
     -> FROM USERS
     -> JOIN LIKES
-    -> ON USERS.ID = LIKES.USER_ID
+    -> ON USERS.ID= LIKES.USER_ID
     -> GROUP BY USERS.ID
-    -> HAVING TOTAL_USER_LIKES = (SELECT COUNT(*) FROM PHOTOS
+    -> HAVING TOTAL_USER_LIKES =(
+    -> SELECT COUNT(*) FROM PHOTOS
     -> );
 +---------+--------------------+------------------+
 | USER_ID | USERNAME           | TOTAL_USER_LIKES |
@@ -509,4 +410,4 @@ mysql> SELECT
 |      76 | Janelle.Nikolaus81 |              257 |
 |      91 | Bethany20          |              257 |
 +---------+--------------------+------------------+
-13 rows in set (0.06 sec)
+13 rows in set (0.03 sec)
